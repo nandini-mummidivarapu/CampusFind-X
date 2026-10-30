@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusFind X — Flutter Campus Lost & Found Mobile App
 
 **CampusFind X** is a modern, student-centric mobile application engineered with **Flutter**, **Dart**, **Material 3**, and the **Provider** state management pattern. It provides an intuitive, reliable, and offline-capable platform for college students to report lost belongings, post found items, search campus reports, contact reporters, and mark items as resolved.
@@ -363,3 +364,7 @@ Follow this 5-minute demonstration script during your college lab viva:
 ---
 
 *Developed for College Flutter Mobile Development Laboratory.*
+=======
+# CampusFind-X
+A Flutter-based campus lost and found application
+>>>>>>> f80cd42f80fef587b27595052e0f448ca8cabdda
